@@ -1,0 +1,52 @@
+/* Header */
+.header {
+    background: linear-gradient(135deg, #47291E, #D4C0AD);
+}
+
+/* Sidenav */
+.sidenav li a:hover {
+    background: #D4C0AD;
+}
+
+/* Content */
+.wide-col a {
+    border-bottom: 2px solid #47291E;
+}
+
+.wide-col a:hover {
+    color: #fafbfc;
+    background: #47291E;
+}
+
+.title {
+    color: #47291E;
+}
+
+.info-number > div {
+    background: linear-gradient(135deg, #47291E, #D4C0AD);
+}
+
+.info-number span {
+    color: #D4C0AD;
+}
+
+.number {
+    color: #D4C0AD;
+}
+
+.img-text {
+    color: #47291E;
+}
+
+.quote, .atributes {
+    background: linear-gradient(135deg, #47291E, #D4C0AD);
+}
+
+.atributes li + li {
+    border-top: 2px solid #2D1C18;
+}
+
+/* Footer */
+.footer {
+    background: linear-gradient(135deg, #47291E, #D4C0AD);
+}
